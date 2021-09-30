@@ -23,15 +23,10 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@Aslamzinhoxd-079797?style=flat-square&labelColor=079797&logo=twitter&logoColor=white&link=https://twitter.com/Aslamzinhoxd)](https://twitter.com/Aslamzinhoxd) [![Youtube Badge](https://img.shields.io/badge/-Aslam'-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCf1HcifkW2T8CrrwU7LOceA)](https://www.youtube.com/channel/UCBiE7Aw_AeiK8kfKionPflg) [![Discord Badge](https://img.shields.io/badge/-Aslam'-fc0303?style=flat-square&labelColor=fc0303&logo=discord&logoColor=white&link=https://discord.gg/bBmujdQmCg)](https://discord.gg/bBmujdQmCg)
 
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/3fos8z36gsujh5a2xjqhryyor)
-
 </details>
 
 <details>
   <summary> 🖥️ Projetos </summary>
-
-<h2>Lunna</h2>
-<h3>Lunna é um projeto meu, lunna é um bot de moderação completo com varios sistemas incluindo de registro, economia, xp e mutio mais.</h3>
 
 <h2>Sona Music</h2>
 <h3>Sona é um outro projeto meu, Sona Music é um bot de music completo com efeitos para music, lista de musicas preferidas e mutis mais, Sona junta praticidade com qualidade em um bot só.<h3>
