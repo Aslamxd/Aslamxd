@@ -8,7 +8,7 @@
   <summary> 🚧 bio </summary>
   
       - 🌙 Sou apaixonado por programação
-      - ☄️ Tenho 14 anos
+      - ☄️ Tenho 21 anos
       - 🍃 vários projetos na mente!
       - 💫 Of all the stars I stand out for being the most intelligent!
       
