@@ -52,8 +52,6 @@
 <h3 align="center">Ferramentas</h3>
 <p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/><img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/783731417783861298/795255492581785610/tumblr_f20aacf7843c9bf720aad33030d5caee_5fd73b6e_1280.gif?width=405&height=241" alt="Banner Profile"/></p>
-
 <h2 align="center">Outras Informações</h2>
 
 ![profile] ![languages]
