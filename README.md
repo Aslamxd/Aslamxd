@@ -36,10 +36,10 @@
 <details>
   <summary> 📨 Server </summary>
   
-  <p align="center"> <img src=https://media.discordapp.net/attachments/806685759729827840/808007471209775164/gifzada-2.gif?size=2048" height="200px" width="200px"/>
+  <p align="center"> <img src=https://media.discordapp.net/attachments/878018209498927104/895829895798718504/a_fdec4eb62f60e2c33d232c0b0bf8a867.gif=2048" height="200px" width="200px"/>
   
 <p align="center">
-<a href="https://discord.gg/JjXSxt7u7d" target="blank"><img align="center" src="https://img.shields.io/badge/-ENTRA NA PDE-09ff00?style=for-the-badge&labelColor=7CB342" alt="CB"></a>
+<a href="https://discord.gg/JjXSxt7u7d" target="blank"><img align="center" src="https://img.shields.io/badge/-Entre-09ff00?style=for-the-badge&labelColor=7CB342" alt="CB"></a>
 </p>
   
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
