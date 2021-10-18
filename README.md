@@ -47,7 +47,12 @@
 </details>
 
 <h3 align="center">Linguagens</h3>
-<p align="center"><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/><img src="https://img.icons8.com/ios/452/php.png" title="php" alt="php" width="40" height="40"/><img src="https://img.icons8.com/ios/452/c-plus-plus-logo.png" title="C++" alt="C++" width="40" height="40"/></p> 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-js&logoColor=fff)
+![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
 
 <h3 align="center">Ferramentas</h3>
 <p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/><img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
