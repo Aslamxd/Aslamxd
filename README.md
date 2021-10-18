@@ -21,7 +21,7 @@
 <details>
   <summary> 🎸 redes sociais </summary>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Aslamzinhoxd-079797?style=flat-square&labelColor=079797&logo=twitter&logoColor=white&link=https://twitter.com/Aslamzinhoxd)](https://twitter.com/Aslamzinhoxd) [![Youtube Badge](https://img.shields.io/badge/-Aslam'-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCf1HcifkW2T8CrrwU7LOceA)](https://www.youtube.com/channel/UCBiE7Aw_AeiK8kfKionPflg) [![Discord Badge](https://img.shields.io/badge/-Aslam'-fc0303?style=flat-square&labelColor=fc0303&logo=discord&logoColor=white&link=https://discord.gg/bBmujdQmCg)](https://discord.gg/bBmujdQmCg)
+[![Twitter Badge](https://img.shields.io/badge/-@Aslamzinhoxd-079797?style=flat-square&labelColor=079797&logo=twitter&logoColor=white&link=https://twitter.com/Aslamzinhoxd)](https://twitter.com/Aslamzinhoxd) [![Youtube Badge](https://img.shields.io/badge/-Aslam'-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCf1HcifkW2T8CrrwU7LOceA)](https://www.youtube.com/channel/UCBiE7Aw_AeiK8kfKionPflg) [![Discord Badge](https://img.shields.io/badge/-Aslam'-010303?style=flat-square&labelColor=fc0303&logo=discord&logoColor=white&link=https://discord.gg/bBmujdQmCg)](https://discord.gg/bBmujdQmCg)
 
 </details>
 
