@@ -9,7 +9,7 @@
   
       - 🌙 Sou apaixonado por programação
       - ☄️ Tenho 21 anos
-      - 🍃 vários projetos na mente!
+      - 📚 Estudante de Redes e Pentest
       - 💫 Of all the stars I stand out for being the most intelligent!
       
 
