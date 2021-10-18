@@ -56,6 +56,8 @@
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-js&logoColor=fff)
 ![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
 
+</p>
+
 <h3 align="center">Ferramentas</h3>
 <p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/><img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
 
