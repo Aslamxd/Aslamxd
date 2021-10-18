@@ -46,7 +46,7 @@
 
 </details>
 
-<h3 align="center">Linguagens</h3>
+<h3 align="left">Linguagens</h3>
 
 <p align="center">
 
@@ -59,7 +59,7 @@
 
 </p>
 
-<h3 align="center">Ferramentas</h3>
+<h3 align="left">Ferramentas</h3>
 
 <p align="cente">
 
