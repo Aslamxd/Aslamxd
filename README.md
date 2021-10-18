@@ -60,7 +60,14 @@
 </p>
 
 <h3 align="center">Ferramentas</h3>
-<p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/><img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
+
+<p align="cente">
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+
+</p>
 
 <h2 align="center">Outras Informações</h2>
 
