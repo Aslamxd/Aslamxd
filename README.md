@@ -32,15 +32,6 @@
 <h3>Sona é um dos meus projetos, Sona Music é um bot de musica completo com efeitos para musica, lista de musicas preferidas e muito mais, Sona junta praticidade com qualidade em um bot só.<h3>
 
 </details>
-
-<details>
-  <summary> 📨 Server </summary>
-  
-  <p align="center"> <img src="https://media.discordapp.net/attachments/878018209498927104/895829895798718504/a_fdec4eb62f60e2c33d232c0b0bf8a867.gif" height="200px" width="200px"/>
-  
-<p align="center">
-<a href="https://discord.gg/JjXSxt7u7d" target="blank"><img align="center" src="https://img.shields.io/badge/-Entre-0e6f08?style=for-the-badge&labelColor=7CB342" alt="CB"></a>
-</p>
   
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
