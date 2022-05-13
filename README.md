@@ -1,15 +1,15 @@
-<h1 align="center">Henry Capri'<img align="center" src="https://media.discordapp.net/attachments/807277623076061204/807277802755194961/estrela.gif" alt="discord" height="35" width="35"/></h1>
+<h1 align="center">Henry'<img align="center" src="https://media.discordapp.net/attachments/807277623076061204/807277802755194961/estrela.gif" alt="discord" height="35" width="35"/></h1>
 
-<p align="center">Hello, my name is Aslam, I'm 15 years old in Brasil</p>
+<p align="center">Hello, my name is Henry and I live in Brazil</p>
 
 <p align="center">I'm a developer of bots and web sites, I'm learning C, C ++ and Lua </p>
 
  <details>
   <summary> 🚧 bio </summary>
   
-      - 🌙 Sou apaixonado por programação
-      - ☄️ Tenho 21 anos
+      - 🌙 Apaixonado Por Livros e Café!
       - 📚 Estudante de Redes e Pentest
+      - 💻 Cursando Segurança Da Informação, Programador Front End
       - 💫 Of all the stars I stand out for being the most intelligent!
       
 
